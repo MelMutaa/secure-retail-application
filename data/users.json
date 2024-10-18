@@ -1,0 +1,62 @@
+{
+    "admin": {
+        "username": "admin",
+        "password": "$2b$12$5hfJdfj3JgLDm2VNeH7sjuAErBTT1bsnDKmPhBNJSO7mB2J1Y1y56",
+        "role": "admin"
+    },
+    "user1": {
+        "username": "user1",
+        "password": "$2b$12$7GFmj1UugPBHFhSZo5lPsuS4ftFz4ZyhuHtL1f.K7MPaOEu.8npBS",
+        "role": "user"
+    },
+    "Test user": {
+        "username": "TestUser",
+        "password": "test",
+        "role": "user"
+    },
+    "test": {
+        "username": "test",
+        "password": "$2b$12$PN0ypTZn3Y1PL5TAE7lxKOMyn6N7KKeoO78Ce2ocb4TyhYl0UlP.e",
+        "role": "user"
+    },
+    "admin2": {
+        "username": "admin2",
+        "password": "$2b$12$iMg0HNHDIIVSedbHe4Wr1O6lOY0zXEIsA3fji9SqT5xfeiVeRloYe",
+        "is_admin": true
+    },
+    "testadmin": {
+        "password": "$2b$12$o8MQ9pTkLfX1iz3.KvYb6OcZNApwgjNxR/jOuPS7/e.zfU0VOq4Xe",
+        "is_admin": true
+    },
+    "test3": {
+        "bcrypt": "$2b$12$4anH.vA5MBGbe27HJ1IMreP7PfBh8CSMBHHJq1Ka4wmMydZdKjjmW",
+        "is_admin": true
+    },
+    "New": {
+        "bcrypt": "$2b$12$U.e2T/iCQKtFzC2ODF1PpORzRIEdz9i3oKxZp2Pz5Z0K5y.w8yoeS",
+        "is_admin": true,
+        "payment_info": "$2b$12$CzGFyIhnb8n7k.zl3gJ/WuzkdLD3uqX5Zq5/R9OBtbsu7XyPHHb2u"
+    },
+    "new 3": {
+        "bcrypt": "$2b$12$nd7o/WpB.wL9GYdeG.ZUHuJBYg8meN4gt.dXGZfMOEkKnFDYfFyAy",
+        "is_admin": false,
+        "payment_info": "$2b$12$2IKYYC4o.cl1rCj7niFAoePhIINLyUjmTB9DI8YhdS9f8Wac6ClgO"
+    },
+    "test4": {
+        "username": "test4",
+        "password": "$2b$12$eXHO396NPQzGowMaolfuvevFY9vNY/em8UzDTQ7sDDGETyZ28jGlG",
+        "role": "user"
+    },
+    "test5": {
+        "password": "$2b$12$LmNKAFtfOsSbRLL/IQ4ea./h3bDORg/BlB9rnaOAAlOUoMnxqQ49u",
+        "is_admin": false
+    },
+    "test6": {
+        "password": "test6",
+        "is_admin": false
+    },
+    "test7": {
+        "password": "test7",
+        "is_admin": false
+    }
+}
