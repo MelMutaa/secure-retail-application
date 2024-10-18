@@ -164,5 +164,3 @@ Welcome, admin_user! You have admin access.
 - All user data is stored in `data/users.json`.
 - Products are stored in `data/products.json`.
 - Discount codes are checked within the app but can be configured in the code.
-
-For any further assistance, feel free to contact the developer.
